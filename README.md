@@ -23,3 +23,6 @@
 #### Enhanced interactivity: React provides a rich ecosystem of libraries and tools for handling interactivity, such as React Router for managing navigation, Redux for state management in complex applications, and React animations libraries for smooth transitions and animations.
 
 #### Overall, using modern technologies like React would simplify the code, improve maintainability, and provide a more efficient and interactive user experience.
+
+you can see hear deploy of this project
+https://the-beatles-project.netlify.app
